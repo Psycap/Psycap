@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @Psycap
+- 🤗 Welcome to my GitHub Profile 
+- 👀 I’m interested in Web & Software Development
+- 🌱 I’m currently learning C++, Javascript
+- 💞️ I’m looking to collaborate on Front end development projects
+- 📫 Reach me through my whatsapp +8801581076176
+- 🥰 I am always looking for new opportunities to learn and collaborate, so don't hesitate to reach out if you have an idea for a project or just want to chat.
+- 😍 Thanks for stopping by!
